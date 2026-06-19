@@ -1,0 +1,6 @@
+node_modules/
+auth_info/
+blackbat_state.json
+.blackbat_install.json
+.env
+npm-debug.log*
