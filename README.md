@@ -148,7 +148,7 @@ Do not share these files with other people.
 For help, contact support on WhatsApp:
 
 ```text
-https://wa.me/+263782456936
+https://wa.me/+263775649488
 ```
 
 ### The QR code does not appear
